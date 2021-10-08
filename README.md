@@ -1,10 +1,2 @@
-- 👋 Hi, I’m @SirEpiclyAmazing
-- 👀 I’m interested in coding and Discord
-- 🌱 I’m currently learning code
-- 💞️ I’m looking to collaborate on Discord bots
-- 📫 How to reach me sirepiclydev@gmail.com
-
-<!---
-SirEpiclyAmazing/SirEpiclyAmazing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Stuff I can use
+![VSC](https://discordapp.com/channels/681882711945641997/743817386792058971/759739059601408050) ![Node](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg) ![NPM](https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/npm/npm-original-wordmark.svg) ![HTML](https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/html5/html5-original.svg) ![CSS](https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/css3/css3-original.svg) ![Powershell](https://camo.githubusercontent.com/af190b2e7e446b64ba818af6f441a54f3883d0d9a45e41b5b9c7d32a325a56a7/68747470733a2f2f7777772e6672656569636f6e73706e672e636f6d2f75706c6f6164732f706f7765727368656c6c2d69636f6e2d332e706e67)
